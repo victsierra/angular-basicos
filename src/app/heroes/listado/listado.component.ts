@@ -13,3 +13,4 @@ export class ListadoComponent {
     this.heroeBorrado = this.heroes.shift() || '';
   }
 }
+ 
